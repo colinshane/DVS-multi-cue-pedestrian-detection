@@ -1,5 +1,24 @@
 # Multi-Cue Event Information Fusion for Pedestrian Detection with Neuromorphic Vision Sensors
 
+This repository contains the code for our paper (now under review):
+
+    Guang Chen, Hu Cao, Canbo Ye, Zhenyan Zhang, Xingbo Liu, Xuhui Mo, Zhongnan Qu, Jörg Conradt, Florian Röhrbein, Alois Knoll
+    "Multi-Cue Event Information Fusion for Pedestrian Detection with Neuromorphic Vision Sensors"
+    in Frontiers in Neurorobotics 2019
+
+If you find the code useful for your research, please cite our paper (now under review):
+
+        @inproceedings{guangchen2019-dvs-ped-detection,
+          title={Multi-Cue Event Information Fusion for Pedestrian Detection with Neuromorphic Vision Sensors},
+          author={Guang Chen, Hu Cao, Canbo Ye, Zhenyan Zhang, Xingbo Liu, Xuhui Mo, Zhongnan Qu, Jörg Conradt, Florian Röhrbein, Alois Knoll},
+          booktitle={Frontiers in Neurorobotics},
+          year={2019}
+        }
+
+If you have any questions, please feel free to contact:
+
+    Guang Chen <guangchen AT tongji.edu.cn>
+
 ## Introduction
 
 We propose to develop pedestrian detectors that unlock the potential of the event data by leveraging multi-cue information and different fusion strategies.
